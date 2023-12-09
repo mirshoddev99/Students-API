@@ -1,4 +1,4 @@
-### Students API
+# Students API
 Welcome to the Students API project! This API is designed to manage student information using Spring Boot, Spring Security, PostgreSQL, Spring JPA, and includes CRUD operations along with unit testing.
 
 ## Features
